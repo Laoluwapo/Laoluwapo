@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **any web app**
 
-- 🤝 I’m looking for help with **React**
+- 🤝 I’m looking for help with **Internships**
 
 - 💬 Ask me about **HTML, CSS & JavaScript**
 
