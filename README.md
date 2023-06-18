@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/laoluwaapo" target="blank"><img src="https://img.shields.io/twitter/follow/laoluwaapo?logo=twitter&style=for-the-badge" alt="laoluwaapo" /></a> </p>
 
-- 🌱 I’m currently learning **React and Tailwind CSS**
+- 🌱 I’m currently learning **React and TypeScript**
 
 - 👯 I’m looking to collaborate on **any web app**
 
